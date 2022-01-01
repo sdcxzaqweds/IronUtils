@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30002.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ServerLogTest", "ServerLogTest\ServerLogTest.csproj", "{4734CACB-5998-4789-B1C8-2CFF6F46504C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IronUtils", "IronUtils\IronUtils.csproj", "{AEA5A7BA-561F-47AC-AFCB-50DB11246B78}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4734CACB-5998-4789-B1C8-2CFF6F46504C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4734CACB-5998-4789-B1C8-2CFF6F46504C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4734CACB-5998-4789-B1C8-2CFF6F46504C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AEA5A7BA-561F-47AC-AFCB-50DB11246B78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEA5A7BA-561F-47AC-AFCB-50DB11246B78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEA5A7BA-561F-47AC-AFCB-50DB11246B78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEA5A7BA-561F-47AC-AFCB-50DB11246B78}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7F37E5DC-3150-4F37-98A5-49B724765034}
+	EndGlobalSection
+EndGlobal
