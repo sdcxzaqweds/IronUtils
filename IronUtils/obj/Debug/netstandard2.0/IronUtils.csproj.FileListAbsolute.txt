@@ -1,0 +1,8 @@
+E:\C# Project\IronUtils\IronUtils\bin\Debug\netstandard2.0\IronUtils.deps.json
+E:\C# Project\IronUtils\IronUtils\bin\Debug\netstandard2.0\IronUtils.dll
+E:\C# Project\IronUtils\IronUtils\bin\Debug\netstandard2.0\IronUtils.pdb
+E:\C# Project\IronUtils\IronUtils\obj\Debug\netstandard2.0\IronUtils.csproj.CoreCompileInputs.cache
+E:\C# Project\IronUtils\IronUtils\obj\Debug\netstandard2.0\IronUtils.AssemblyInfoInputs.cache
+E:\C# Project\IronUtils\IronUtils\obj\Debug\netstandard2.0\IronUtils.AssemblyInfo.cs
+E:\C# Project\IronUtils\IronUtils\obj\Debug\netstandard2.0\IronUtils.dll
+E:\C# Project\IronUtils\IronUtils\obj\Debug\netstandard2.0\IronUtils.pdb
