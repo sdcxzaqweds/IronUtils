@@ -1,0 +1,16 @@
+E:\C# Project\IronUtils\ServerLogTest\bin\Release\netcoreapp3.1\ServerLogTest.exe
+E:\C# Project\IronUtils\ServerLogTest\bin\Release\netcoreapp3.1\ServerLogTest.deps.json
+E:\C# Project\IronUtils\ServerLogTest\bin\Release\netcoreapp3.1\ServerLogTest.runtimeconfig.json
+E:\C# Project\IronUtils\ServerLogTest\bin\Release\netcoreapp3.1\ServerLogTest.runtimeconfig.dev.json
+E:\C# Project\IronUtils\ServerLogTest\bin\Release\netcoreapp3.1\ServerLogTest.dll
+E:\C# Project\IronUtils\ServerLogTest\bin\Release\netcoreapp3.1\ServerLogTest.pdb
+E:\C# Project\IronUtils\ServerLogTest\bin\Release\netcoreapp3.1\IronUtils.dll
+E:\C# Project\IronUtils\ServerLogTest\bin\Release\netcoreapp3.1\IronUtils.pdb
+E:\C# Project\IronUtils\ServerLogTest\obj\Release\netcoreapp3.1\ServerLogTest.csprojAssemblyReference.cache
+E:\C# Project\IronUtils\ServerLogTest\obj\Release\netcoreapp3.1\ServerLogTest.csproj.CoreCompileInputs.cache
+E:\C# Project\IronUtils\ServerLogTest\obj\Release\netcoreapp3.1\ServerLogTest.AssemblyInfoInputs.cache
+E:\C# Project\IronUtils\ServerLogTest\obj\Release\netcoreapp3.1\ServerLogTest.AssemblyInfo.cs
+E:\C# Project\IronUtils\ServerLogTest\obj\Release\netcoreapp3.1\ServerLogTest.csproj.CopyComplete
+E:\C# Project\IronUtils\ServerLogTest\obj\Release\netcoreapp3.1\ServerLogTest.dll
+E:\C# Project\IronUtils\ServerLogTest\obj\Release\netcoreapp3.1\ServerLogTest.pdb
+E:\C# Project\IronUtils\ServerLogTest\obj\Release\netcoreapp3.1\ServerLogTest.genruntimeconfig.cache

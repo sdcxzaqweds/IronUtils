@@ -1,0 +1,23 @@
+[L]#01:03:55--670  ThreadID:1>> SeverIronLog START...   
+[L]#01:03:55--713  ThreadID:1>> Color Log:Red   
+[L]#01:03:55--713  ThreadID:1>> Color Log:Blue   
+[L]#01:03:55--714  ThreadID:1>> Color Log:Green   
+[L]#01:03:55--714  ThreadID:1>> Color Log:Cyan   
+[L]#01:03:55--714  ThreadID:1>> Color Log:Magenta   
+[L]#01:03:55--714  ThreadID:1>> Color Log:Yellow   
+[L]#01:03:55--715  ThreadID:1>> InitRootLog.   
+[T]#01:03:55--715  ThreadID:1>> Init Mgr warn.   
+[E]#01:03:55--715  ThreadID:1>> Init Item Error   
+StackTrace:
+    E:\C# Project\IronUtils\IronUtils\IronLog.cs::Void Error(System.Object, System.String, System.Object[])   line:59
+    E:\C# Project\IronUtils\ServerLogTest\Root.cs::Void Init()   line:28
+    E:\C# Project\IronUtils\ServerLogTest\Root.cs::Void Init()   line:20
+    E:\C# Project\IronUtils\ServerLogTest\Root.cs::Void Init()   line:10
+    E:\C# Project\IronUtils\ServerLogTest\Program.cs::Void Main(System.String[])   line:21
+[T]#01:03:55--783  ThreadID:1>> Trace this Func   
+StackTrace:
+    E:\C# Project\IronUtils\IronUtils\IronLog.cs::Void Trace(System.Object, System.String, System.Object[])   line:39
+    E:\C# Project\IronUtils\ServerLogTest\Root.cs::Void Init()   line:29
+    E:\C# Project\IronUtils\ServerLogTest\Root.cs::Void Init()   line:20
+    E:\C# Project\IronUtils\ServerLogTest\Root.cs::Void Init()   line:10
+    E:\C# Project\IronUtils\ServerLogTest\Program.cs::Void Main(System.String[])   line:21
